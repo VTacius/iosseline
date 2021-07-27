@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# vim
+**/.*.swp
+
+# Archivos con datos que no tienen porque andar de viaje en los repo
+**/*.csv
+tickets.json
